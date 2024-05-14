@@ -55,7 +55,7 @@ class _LoginPageState extends State<LoginPage> {
                     const SizedBox(height: 50),
                     const TextField(
                       decoration: InputDecoration(
-                        labelText: 'Password',
+                        labelText: 'Enter Your Password',
                         border: OutlineInputBorder(
                           borderSide: BorderSide(
                             color: Colors.white,
